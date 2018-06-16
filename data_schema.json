@@ -1,0 +1,15 @@
+{
+  "azure": {
+    "authentication": {
+      "account_name": "abc",
+      "account_key": "abcdefg"
+    },
+    "container_name": "asbc"
+  },
+  "cognitive": {
+    "authentication": {
+      "subscription_key": "asddsa"
+    },
+    "base_URL":"https://westus.api.cognitive.microsoft.com/vision/v1.0"
+  }
+}
